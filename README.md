@@ -1,5 +1,7 @@
 # Pipes Counting 
 
+<img height="300" alt="labeled_example1" src="./assets/Tablet1.jpg" /> <img height="300" alt="labeled_example1" src="./assets/Tablet2.jpg" /> <img height="300" alt="labeled_example1" src="./assets/Tablet4.jpg" />
+
 This repository contains notebooks, and trained weights for our project on detecting and counting steel profiles in photos using a YOLO-based model.
 
 The model recognizes and counts four profile types:
@@ -28,8 +30,8 @@ The model recognizes and counts four profile types:
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/pipe-counting-yolo.git
-cd pipe-counting-yolo
+git clone https://github.com/IvanFenster/PipesCounting
+cd PipesCounting
 pip install -r requirements.txt
 ```
 
