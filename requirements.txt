@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+ultralytics
+optuna
+jdc
+google
