@@ -85,5 +85,5 @@ Project developed by Team 42:
 - Ivan Fenster
 - Alexander Povarov
 - Konstantin Spirin
-- Ignat Sukhanovsky
+- Ignat Sukhanovskii
 - Andrey Bushin
